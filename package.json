@@ -1,0 +1,24 @@
+{
+  "name": "exo-libre",
+  "version": "1.0.0",
+  "description": "### 1er cours (29/04) #### initialisation du repo, création de la structure générale et de l'environnement de travail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasceglie/exo-libre-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasceglie/exo-libre-js/issues"
+  },
+  "homepage": "https://github.com/thomasceglie/exo-libre-js#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.5"
+  }
+}
